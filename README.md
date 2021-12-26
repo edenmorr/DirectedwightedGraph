@@ -1,7 +1,7 @@
 # DirectedwightedGraph
 
 
-### **Explanation**
+## **project Explanation**
 ---
 Written by eden mor and danielle musai.  
 In this task we had to implement a data structure of a directed weighted directed graph 
