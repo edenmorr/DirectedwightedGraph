@@ -34,4 +34,7 @@ more infurmation about Dijkstra's algorithm:
 https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 https://www.youtube.com/watch?v=pVfj6mxhdMw
 ---
+## **the graph** ##
+the graph has nodes,edges and weighte 
+![graph](http://url/to/img.png)
 
