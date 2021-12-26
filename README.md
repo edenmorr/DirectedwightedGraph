@@ -30,6 +30,7 @@ In Python, the implementation includes the diGraph class as well as the GraphAlg
 ---
 ### **Links**
 ---
+in order to umplement the shortestpath algorithem we based on the Dijkstra's algorithm:
 more infurmation about Dijkstra's algorithm:  
 https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 https://www.youtube.com/watch?v=pVfj6mxhdMw
