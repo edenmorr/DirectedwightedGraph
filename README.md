@@ -15,4 +15,23 @@ In Python, the implementation includes the diGraph class as well as the GraphAlg
 * TSP – Finds the shortest path that visits all the nodes in the list 
 * centerPoint - Finds the node that has the shortest distance to it's farthest node.
 * plot_graph -  Plots the graph.
--
+---
+### **the interfaces we needed to implement in the class diGraph:**
+*v_size - Returns the number of vertices in this graph
+*e_size - Returns the number of edges in this graph
+*get_all_v - return a dictionary of all the nodes in the Graph, each node is represented using a pair
+*all_in_edges_of_node- return a dictionary of all the nodes connected to (into) node_id
+*all_out_edges_of_node- return a dictionary of all the nodes connected from node_id , each node is represented using a pair
+*get_mc - Returns the current version of this graph, on every change in the graph state - the MC should be increased
+* add_edge - Adds an edge to the graph.
+* add_node -  Adds an node to the graph.
+*remove_node-  Removes a node from the graph.
+*remove_edge-  Removes an edge from the graph.
+---
+### **Links**
+---
+more infurmation about Dijkstra's algorithm:  
+https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+https://www.youtube.com/watch?v=pVfj6mxhdMw
+---
+
