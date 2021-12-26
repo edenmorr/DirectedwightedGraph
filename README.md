@@ -35,7 +35,10 @@ https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 https://www.youtube.com/watch?v=pVfj6mxhdMw
 ---
 ## **the graph** ##
-the graph has nodes,edges and weighte 
+*The graph consists of nodes and edges  
+the node has id, pos, edges-in and edges-out
+---
+### **the graph**
 ![graph](https://user-images.githubusercontent.com/93930203/147415745-2fe4c723-19f4-4b80-8682-93e6b615f062.jpeg)
 
 
