@@ -36,5 +36,6 @@ https://www.youtube.com/watch?v=pVfj6mxhdMw
 ---
 ## **the graph** ##
 the graph has nodes,edges and weighte 
-![graph](http://url/to/img.png)
+![graph](https://user-images.githubusercontent.com/93930203/147415745-2fe4c723-19f4-4b80-8682-93e6b615f062.jpeg)
+
 
