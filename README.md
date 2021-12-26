@@ -15,3 +15,4 @@ In Python, the implementation includes the diGraph class as well as the GraphAlg
 * TSP – Finds the shortest path that visits all the nodes in the list 
 * centerPoint - Finds the node that has the shortest distance to it's farthest node.
 * plot_graph -  Plots the graph.
+-
